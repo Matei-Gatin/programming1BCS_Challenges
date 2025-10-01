@@ -1,5 +1,4 @@
 import time
-time.sleep(10)
 import pytest
 import student
 
